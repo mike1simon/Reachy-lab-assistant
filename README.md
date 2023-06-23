@@ -1,1 +1,1 @@
-# Reachy-lab-assistant
+# Reachy Lab Assistant
